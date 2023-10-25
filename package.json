@@ -15,7 +15,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1",
-		"next": "9.3.3",
+		"next": "13.5.0",
 		"react": "16.9.0",
 		"react-dom": "16.9.0"
 	},
